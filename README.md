@@ -50,13 +50,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanachotkub&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p> -->
+</p>
 
 ---
 
 ## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanachotkub)
