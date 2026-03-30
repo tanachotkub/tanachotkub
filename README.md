@@ -8,7 +8,7 @@
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm always learning new technologies
 - 💬 Ask me about **React, Next.js, Node.js, Go, Flutter**
-- 📫 How to reach me: **your@email.com**
+- 📫 How to reach me: **tanachot2004@gmail.com**
 
 ---
 
